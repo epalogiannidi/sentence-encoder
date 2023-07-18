@@ -1,0 +1,3 @@
+pretrained_model : 'lighteternal/stsb-xlm-r-greek-transfer'
+output_path : "poc/ianos_encodings"
+saved_embeddings : "poc/encodings_base_poc_ianos.pt"
